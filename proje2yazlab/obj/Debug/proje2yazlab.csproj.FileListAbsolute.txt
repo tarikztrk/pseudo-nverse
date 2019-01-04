@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\proje2yazlab\proje2yazlab\obj\Debug\proje2yazlab.csprojAssemblyReference.cache
+C:\Users\user\source\repos\proje2yazlab\proje2yazlab\obj\Debug\proje2yazlab.Form1.resources
+C:\Users\user\source\repos\proje2yazlab\proje2yazlab\obj\Debug\proje2yazlab.Properties.Resources.resources
+C:\Users\user\source\repos\proje2yazlab\proje2yazlab\obj\Debug\proje2yazlab.csproj.GenerateResource.cache
+C:\Users\user\source\repos\proje2yazlab\proje2yazlab\obj\Debug\proje2yazlab.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\proje2yazlab\proje2yazlab\bin\Debug\proje2yazlab.exe.config
+C:\Users\user\source\repos\proje2yazlab\proje2yazlab\bin\Debug\proje2yazlab.exe
+C:\Users\user\source\repos\proje2yazlab\proje2yazlab\bin\Debug\proje2yazlab.pdb
+C:\Users\user\source\repos\proje2yazlab\proje2yazlab\obj\Debug\proje2yazlab.exe
+C:\Users\user\source\repos\proje2yazlab\proje2yazlab\obj\Debug\proje2yazlab.pdb
+C:\Users\user\source\repos\proje2yazlab\proje2yazlab\bin\Debug\MathNet.Numerics.dll
+C:\Users\user\source\repos\proje2yazlab\proje2yazlab\bin\Debug\MathNet.Numerics.xml
+C:\Users\user\source\repos\proje2yazlab\proje2yazlab\obj\Debug\proje2yazlab.csproj.CopyComplete
